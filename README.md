@@ -6,5 +6,5 @@ Java 课上代码
 **微信:**
 <br />
 ![wechat](https://github.com/siyu1915/java/raw/master/sources/wx.jpg "微信")
-<image src="https://github.com/siyu1915/java/raw/master/sources/wx.jpg" style="width:50%;height:50%;" />
+<image src="https://github.com/siyu1915/java/raw/master/sources/wx.jpg" style="width:20%;height:20%;" />
 
